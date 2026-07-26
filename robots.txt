@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://laibatabbsum6-cmyk.github.io/Sukoon-app/sitemap.xml
